@@ -7,6 +7,8 @@ public class User {
 
 	public User() {
 		super();
+		System.out.println("春江潮水连海平,海上明月共潮生!");
+		System.out.println("即食水蜜桃");
 	}
 
 	public User(String name, String add, int age) {
