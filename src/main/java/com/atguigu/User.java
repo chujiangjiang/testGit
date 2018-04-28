@@ -1,7 +1,7 @@
 package com.atguigu;
 
 public class User {
-	private String name;
+	private String name = "褚江江";
 	private String add;
 	private int age;
 
